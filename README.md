@@ -27,4 +27,5 @@ git clone https://github.com/seu-usuario/BancoSimples.git
 3. Execute a classe Main.java
 
 ## ▶️ Demonstração:
+![Exemplo de uso](assets/Screenshot_1.png)
 
